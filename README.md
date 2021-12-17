@@ -7,5 +7,6 @@ B1 : Bật Ctrl + D ở trình duyệt dán code vào thanh Url
 
 
 ![alt text](https://raw.githubusercontent.com/taicutm/MuaNhieuShoppeByJ2Team/main/a1.png)
+
 B2 : Chọn một sản phẩm có nhiều lựa chọn : ![image](https://user-images.githubusercontent.com/69153374/146549576-adcbae37-db8f-42b3-9d61-47caeb6bb74e.png)
 
